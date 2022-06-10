@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" heigth="10px"> Hello, I'm Eric!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Eric!
 
 💻 Software Developer <br>
 🏡 Brazilian, Based in São Paulo, SP
